@@ -1,0 +1,890 @@
+@media (min-width: 1920px) {	
+
+    .rgt-panel-top-content {
+        margin-top: 20px;
+    }
+    .main-menu ul li a {
+        color: #fff;
+        padding: 0 0 0 2.5rem !important;
+        font-size: 18px;
+        font-weight: 300;
+    }
+}
+
+
+@media (max-width: 1366px) {	
+
+    .main-menu ul li a {
+        color: #fff;
+        padding: 0 0 0 1.5em !important;
+        font-size: 16px;
+        font-weight: 300;
+    } 
+    .banner-sec-home .carousel-caption {
+        position: absolute;
+        right: 15%;
+        bottom: 1.25rem;
+        left: 15%;
+        padding-top: 1.25rem;
+        padding-bottom: 1.25rem;
+        color: #fff;
+        text-align: center;
+    }
+    .page-title h2 {
+        font-size: 36px;
+        font-weight: 500;
+        color: #4c6cb5;
+    }
+    .banner-sec-home .carousel-caption p {
+        font-size: 24px;
+        margin-bottom: 50px;
+        line-height: 36px;
+        font-weight: 300;
+        padding: 0 0rem;
+    }
+    .banner-sec-home .carousel-caption h1 {
+        font-size: 60px;
+        line-height: 70px;
+        margin-bottom: 20px;
+        font-weight: 300;
+        padding: 0 10rem;
+    }
+    .about-content {
+        padding: 50px 50px;
+        background: #fff;
+    }
+    .about-content p {
+        font-size: 15px;
+        font-weight: 300;
+        margin-bottom: 1rem !important;
+    }
+    .page-btn a {
+        color: #fff;
+        background: #c78261;
+        padding: 10px 30px;
+        border-radius: 5px;
+        font-size: 14px;
+        text-transform: uppercase;
+        font-weight: 600;
+    }
+    .copyright p {
+        font-size: 16px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        padding: 0px 15rem;
+        margin: 30px 0px 0px;
+    }
+    .serv-content h2 {
+        font-size: 29px;
+        line-height: 40px;
+        font-weight: 600;
+        margin: 0px 0px 15px;
+        min-height: 130px;
+    }
+    .banner-sec-inner .carousel-caption {
+        position: absolute;
+        right: 15%;
+        bottom: 3.25rem;
+        left: 8%;
+        padding-top: 1.25rem;
+        padding-bottom: 1.25rem;
+        color: #fff;
+        text-align: left;
+    }
+    .banner-sec-inner .carousel-caption h1 {
+        font-size: 50px;
+        line-height: 70px;
+        margin-bottom: 20px;
+        font-weight: 300;
+        padding: 0 10rem 20px 0;
+    }
+
+
+
+    .carousel-caption p {
+        font-size: 20px;
+        font-weight: 300;
+    }
+
+
+
+
+
+
+
+}
+@media screen and (min-width: 980px) and (max-width: 1365px) {
+    
+    .banner-sec-home .carousel-inner img {
+        height: 500px !important;
+        object-fit: cover;
+    }
+    
+    .banner-sec-home {
+        height: 500px;
+    }
+    .banner-sec-home .carousel-inner img {
+        height: 500px !important;
+        object-fit: cover !important;
+    }
+    .banner-sec-home .carousel-caption h1 {
+        font-size: 60px;
+        line-height: 80px;
+        margin-bottom: 20px;
+        font-weight: 400;
+        padding: 0 0rem;
+      }
+    .banner-sec-home .carousel-caption p {
+       display: none;
+    }
+
+    .about-content {
+        padding: 20px 30px;
+        background: #fff;
+        margin-top: 0;
+    }
+    .page-title h2 {
+        font-size: 24px;
+        font-weight: 500;
+        color: #4c6cb5;
+    }
+    .about-content p {
+        font-size: 12px;
+        font-weight: 300;
+        margin-bottom: 1rem !important;
+    }
+    .page-btn a {
+        color: #fff;
+        background: #c78261;
+        padding: 10px 18px;
+        border-radius: 5px;
+        font-size: 10px;
+        text-transform: uppercase;
+        font-weight: 600;
+    }
+    .about-sec {
+        background-size: 70%;
+        background-position: -20% 30%;
+    }
+    .main-menu {
+        margin-top: 0;
+    }
+    .each-work {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-content: center;
+        width: 100%;
+        height: 550px;
+        margin-bottom: 40px;
+    }
+    .testimonial-sec .page-title {
+        padding: 0 0rem;
+    }
+    .client-face {
+        display: block;
+        text-align: center;
+    }
+    .client-face img {
+        width: 100px !important;
+        height: 100px !important;
+        object-fit: contain;
+        margin: 0 auto;
+        border-radius: 100px;
+        position: relative;
+    }
+    
+.testi-slider button.owl-dot {
+    width: 24%;
+}
+.main-menu ul li a {
+    color: #fff;
+    padding: 0 0 0 1.0rem !important;
+    font-size: 15px;
+    font-weight: 300;
+  }
+
+
+.newsletter-content p {
+    font-size: 18px;
+    line-height: 30px;
+    margin-bottom: 40px;
+}
+.footer::before {
+    content: "";
+    position: relative;
+    width: 100%;
+    height: 196px;
+    background: url(../images/footer-bg.png) no-repeat 0 0;
+    background-position: center;
+    background-size: 100%;
+    position: absolute;
+    top: -126px;
+    left: 0;
+    right: 0;
+}
+.copyright p {
+    font-size: 16px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 0px 0rem;
+    margin: 30px 0px 0px;
+}
+.footer-content ul li a {
+    font-size: 16px;
+    color: #fff;
+    padding: 0 10px;
+    line-height: 45px;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+}
+@media screen and (min-width: 812px) and (max-width: 979px) {
+    
+    .banner-sec-home .carousel-inner img {
+        height: 500px !important;
+        object-fit: cover;
+    }
+    
+    .banner-sec-home {
+        height: 500px;
+    }
+    .banner-sec-home .carousel-inner img {
+        height: 500px !important;
+        object-fit: cover !important;
+    }
+    .banner-sec-home .carousel-caption h1 {
+        font-size: 40px;
+        line-height: 40px;
+        margin-bottom: 20px;
+        font-weight: 400;
+        padding: 0 0rem;
+    }
+    .banner-sec-home .carousel-caption p {
+       display: none;
+    }
+    .navbar-toggler {
+        position: absolute;
+        top: -32px;
+        left: 0;
+        font-size: 28px;
+        color: #fff;
+    } 
+    .main-menu .navbar-collapse {
+        flex-basis: 100%;
+        flex-grow: 1;
+        align-items: center;
+        background: #c78261;
+        padding: 20px 0;
+    }
+    .about-content {
+        padding: 20px 30px;
+        background: #fff;
+        margin-top: 0;
+    }
+    .page-title h2 {
+        font-size: 24px;
+        font-weight: 500;
+        color: #4c6cb5;
+    }
+    .about-content p {
+        font-size: 12px;
+        font-weight: 300;
+        margin-bottom: 1rem !important;
+    }
+    .page-btn a {
+        color: #fff;
+        background: #c78261;
+        padding: 10px 18px;
+        border-radius: 5px;
+        font-size: 10px;
+        text-transform: uppercase;
+        font-weight: 600;
+    }
+    .about-sec {
+        background-size: 70%;
+        background-position: -20% 30%;
+    }
+    .main-menu {
+        margin-top: 0;
+    }
+    .each-work {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-content: center;
+        width: 100%;
+        height: 550px;
+        margin-bottom: 40px;
+    }
+    .testimonial-sec .page-title {
+        padding: 0 0rem;
+    }
+    .client-face {
+        display: block;
+        text-align: center;
+    }
+    .client-face img {
+        width: 100px !important;
+        height: 100px !important;
+        object-fit: contain;
+        margin: 0 auto;
+        border-radius: 100px;
+        position: relative;
+    }
+    
+.testi-slider button.owl-dot {
+    width: 24%;
+}
+
+
+
+.newsletter-content p {
+    font-size: 18px;
+    line-height: 30px;
+    margin-bottom: 40px;
+}
+.footer::before {
+    content: "";
+    position: relative;
+    width: 100%;
+    height: 196px;
+    background: url(../images/footer-bg.png) no-repeat 0 0;
+    background-position: center;
+    background-size: 100%;
+    position: absolute;
+    top: -126px;
+    left: 0;
+    right: 0;
+}
+.copyright p {
+    font-size: 16px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 0px 0rem;
+    margin: 30px 0px 0px;
+}
+.footer-content ul li a {
+    font-size: 16px;
+    color: #fff;
+    padding: 0 10px;
+    line-height: 45px;
+    text-transform: uppercase;
+}
+/* innerpages */
+
+.banner-sec-inner .carousel-caption h1 {
+    font-size: 40px;
+    line-height: 40px;
+    margin-bottom: 20px;
+    font-weight: 400;
+    padding: 0 0rem;
+}
+.fortified-catagories {
+    background: #9d4123 url(../images/fortified-bg.jpg) no-repeat 0 0;
+    background-attachment: scroll;
+    background-position: top;
+    background-size: 100%;
+    padding: 8rem 0 50px;
+}
+.banner-sec-inner {
+    position: relative;
+    height: 550px;
+}
+.carousel-item-inner img {
+    width: 100%;
+    height: 550px;
+    object-fit: cover;
+}
+.inn-ban-img {
+    width: 35%;
+    height: 120px;
+    margin: 0 auto 20px;
+    text-align: center;
+}
+.inn-ban-img img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    margin: 0 auto;
+    text-align: center;
+}
+.carousel-caption p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 18px;
+    text-align: center;
+}
+.banner-sec-inner .carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 0.25rem;
+    left: 8%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: left;
+}
+.fortified-list ul li {
+    display: inline-block;
+    margin: 5px 9px;
+    width: 95%;
+    text-align: center;
+}
+.fortified-list ul {
+    margin-bottom: 40px;
+}
+.fortified-list p {
+    text-align: center;
+    font-size: 22px;
+    padding: 0 1rem;
+}
+.fort-cat-content p {
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    margin-bottom: 50px;
+    color: #fff;
+}
+.copyright p {
+    font-size: 16px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 0px 0rem;
+    margin: 30px 0px 0px;
+}
+.page-title-white p {
+    color: #fff;
+    padding: 0 0;
+    font-size: 18px;
+    font-weight: 300;
+    margin: 30px 0;
+}
+
+
+
+
+}
+@media screen and (min-width: 667px) and (max-width: 811px) { 
+    
+    .banner-sec-home .carousel-inner img {
+        height: 500px !important;
+        object-fit: cover;
+    }
+    
+    .banner-sec-home {
+        height: 500px;
+    }
+    .banner-sec-home .carousel-inner img {
+        height: 500px !important;
+        object-fit: cover !important;
+    }
+    .banner-sec-home .carousel-caption h1 {
+        font-size: 40px;
+        line-height: 40px;
+        margin-bottom: 20px;
+        font-weight: 400;
+        padding: 0 0rem;
+    }
+    .banner-sec-home .carousel-caption p {
+       display: none;
+    }
+    .navbar-toggler {
+        position: absolute;
+        top: -32px;
+        left: 0;
+        font-size: 28px;
+        color: #fff;
+    } 
+    .main-menu .navbar-collapse {
+        flex-basis: 100%;
+        flex-grow: 1;
+        align-items: center;
+        background: #c78261;
+        padding: 20px 0;
+    }
+    .about-content {
+        padding: 40px 30px;
+        background: #fff;
+        margin-top: 22rem;
+    }
+    .about-sec {
+        background-size: 100%;
+        background-position: -50% 0%;
+    }
+    .main-menu {
+        margin-top: 0;
+    }
+    .each-work {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-content: center;
+        width: 100%;
+        height: 550px;
+        margin-bottom: 40px;
+    }
+    .testimonial-sec .page-title {
+        padding: 0 0rem;
+    }
+    .client-face {
+        display: block;
+        text-align: center;
+    }
+    .client-face img {
+        width: 100px !important;
+        height: 100px !important;
+        object-fit: contain;
+        margin: 0 auto;
+        border-radius: 100px;
+        position: relative;
+    }
+    
+.testi-slider button.owl-dot {
+    width: 24%;
+}
+
+
+
+.newsletter-content p {
+    font-size: 18px;
+    line-height: 30px;
+    margin-bottom: 40px;
+}
+.footer::before {
+    content: "";
+    position: relative;
+    width: 100%;
+    height: 196px;
+    background: url(../images/footer-bg.png) no-repeat 0 0;
+    background-position: center;
+    background-size: 100%;
+    position: absolute;
+    top: -126px;
+    left: 0;
+    right: 0;
+}
+.copyright p {
+    font-size: 16px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 0px 0rem;
+    margin: 30px 0px 0px;
+}
+.footer-content ul li a {
+    font-size: 16px;
+    color: #fff;
+    padding: 0 10px;
+    line-height: 45px;
+    text-transform: uppercase;
+}
+
+
+
+ /* innerpages */
+
+ .banner-sec-inner .carousel-caption h1 {
+    font-size: 40px;
+    line-height: 40px;
+    margin-bottom: 20px;
+    font-weight: 400;
+    padding: 0 0rem;
+}
+ .fortified-catagories {
+    background: #9d4123 url(../images/fortified-bg.jpg) no-repeat 0 0;
+    background-attachment: scroll;
+    background-position: top;
+    background-size: 100%;
+    padding: 8rem 0 50px;
+}
+.banner-sec-inner {
+    position: relative;
+    height: 550px;
+}
+.carousel-item-inner img {
+    width: 100%;
+    height: 550px;
+    object-fit: cover;
+}
+.inn-ban-img {
+    width: 35%;
+    height: 90px;
+    margin: 0 auto 20px;
+    text-align: center;
+}
+.inn-ban-img img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    margin: 0 auto;
+    text-align: center;
+}
+.carousel-caption p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 18px;
+    text-align: center;
+}
+.banner-sec-inner .carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 0.25rem;
+    left: 8%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: left;
+}
+.fortified-list ul li {
+    display: inline-block;
+    margin: 5px 9px;
+    width: 95%;
+    text-align: center;
+}
+.fortified-list ul {
+    margin-bottom: 40px;
+}
+.fortified-list p {
+    text-align: center;
+    font-size: 22px;
+    padding: 0 1rem;
+}
+.fort-cat-content p {
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    margin-bottom: 50px;
+    color: #fff;
+}
+.copyright p {
+    font-size: 16px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 0px 0rem;
+    margin: 30px 0px 0px;
+}
+
+
+}
+
+@media screen and (min-width: 375px) and (max-width: 666px) { 
+
+
+    .banner-sec-home .carousel-inner img {
+        height: 500px !important;
+        object-fit: cover;
+    }
+    
+    .banner-sec-home {
+        height: 500px;
+    }
+    .banner-sec-home .carousel-inner img {
+        height: 500px !important;
+        object-fit: cover !important;
+    }
+    .banner-sec-home .carousel-caption h1 {
+        font-size: 40px;
+        line-height: 40px;
+        margin-bottom: 20px;
+        font-weight: 400;
+        padding: 0 0rem;
+    }
+    .banner-sec-home .carousel-caption p {
+       display: none;
+    }
+    .navbar-toggler {
+        position: absolute;
+        top: -55px;
+        left: 0;
+        font-size: 28px;
+        color: #fff;
+    }  
+    .main-menu .navbar-collapse {
+        flex-basis: 100%;
+        flex-grow: 1;
+        align-items: center;
+        background: #c78261;
+        padding: 20px 0;
+    }
+    .about-content {
+        padding: 40px 30px;
+        background: #fff;
+        margin-top: 0rem;
+    }
+    .about-fortified .page-title h2 {
+        font-size: 32px;
+        font-weight: 500;
+        color: #4c6cb5;
+        margin-bottom: 40px;
+    }
+    .page-title-white p {
+        padding: 0 0;
+    }
+    .about-sec {
+        background-size: 100%;
+        background-position: -50% 0%;
+    }
+    .button-area {
+        text-align: center;
+    }
+    .page-btn {
+        position: relative;
+        z-index: 99;
+        display: inline-block;
+        margin-bottom: 20px;
+    }
+    .each-work {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-content: center;
+        width: 90%;
+        height: 550px;
+        margin-bottom: 20px;
+        margin: 10px auto;
+    }
+    .testimonial-sec .page-title {
+        padding: 0 0rem;
+    }
+    .testi-slider button.owl-dot {
+        padding: 0;
+        border: 0;
+        width: 11%;
+        text-align: center;
+        background: rgba(0,0,0,0);
+        margin: 40px 0;
+    }
+    .newsletter-content p {
+        font-size: 18px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+    .newsletterform form .half-width {
+        width: 48%;
+        float: left;
+        margin-bottom: 5px;
+        margin-right: 0.29em;
+        padding: 15px;
+        background: #fff;
+        border: 1px solid #4c6cb5;
+        border-radius: 0;
+        font-size: 14px;
+    }
+    .newsletterform form .full-width {
+        width: 97%;
+        margin-bottom: 5px;
+        padding: 15px;
+        background: #fff;
+        border: 1px solid #4c6cb5;
+        border-radius: 0;
+        font-size: 14px;
+    }
+    .footer::before {
+        content: "";
+        position: relative;
+        width: 100%;
+        height: 196px;
+        background: url(../images/footer-bg.png) no-repeat 0 0;
+        background-position: center;
+        background-size: 100%;
+        position: absolute;
+        top: -116px;
+        left: 0;
+        right: 0;
+    }
+
+    section.newsletter-sec {
+        padding: 100px 0 150px;
+        background: #e3ebff;
+    }
+
+    /* innerpages */
+
+
+
+    
+    .banner-sec-inner {
+        position: relative;
+        height: 550px;
+    }
+    .banner-sec-inner .carousel-caption h1 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 20px;
+        font-weight: 400;
+        padding: 0 0rem;
+    }
+    .carousel-item-inner img {
+        width: 100%;
+        height: 550px;
+        object-fit: cover;
+    }
+    .inn-ban-img {
+        width: 35%;
+        height: 55px;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .inn-ban-img img {
+        width: 100%;
+        height: auto;
+        object-fit: contain;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .carousel-caption p {
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 18px;
+        text-align: center;
+    }
+    .banner-sec-inner .carousel-caption {
+        position: absolute;
+        right: 8%;
+        bottom: 0.25rem;
+        left: 8%;
+        padding-top: 1.25rem;
+        padding-bottom: 1.25rem;
+        color: #fff;
+        text-align: left;
+    }
+    .fortified-list ul li {
+        display: inline-block;
+        margin: 5px 9px;
+        width: 95%;
+        text-align: center;
+    }
+    .fortified-list ul {
+        margin-bottom: 40px;
+    }
+    .fortified-list p {
+        text-align: center;
+        font-size: 22px;
+        padding: 0 1rem;
+    }
+    .fort-cat-content p {
+        font-size: 18px;
+        font-weight: 300;
+        line-height: 28px;
+        margin-bottom: 50px;
+        color: #fff;
+    }
+    .copyright p {
+        font-size: 16px;
+        text-align: center;
+        color: rgb(255, 255, 255);
+        padding: 0px 0rem;
+        margin: 30px 0px 0px;
+    }
+
+
+
+
+}
+
+
